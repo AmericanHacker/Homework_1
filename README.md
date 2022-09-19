@@ -29,8 +29,8 @@ What solution does this company offer that their competitors do not or cannot of
 Over 50 years in Extensive Hedge Fund research and experience. 
 
 ## Fund Founders and Profiles-<br>
-* [Deeepak Gurnan]()<br>
-* [Ludger Hentschel]()<br>
+* [Deepak Gurnani](https://www.linkedin.com/in/deepak-gurnani-03551813)<br>
+* [Ludger Hentschel](https://www.linkedin.com/in/ludger-hentschel)<br>
 * [DeWayne Louis]()<br>
 * [Andrew Flynn]()<br>
 * [Nirav Shah]()
