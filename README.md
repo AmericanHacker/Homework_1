@@ -40,10 +40,10 @@ Over 50 years in Extensive Hedge Fund research and experience.
 ## Technologies Systematic - Investing Toolkit
 
 ### Forecasting (Machine Learning / Statistics)
-* Return, risk, 
-* correlation, 
-* trading volume, 
-* probability of merger success.
+* Return, risk
+* correlation 
+* trading volume
+* probability of merger success
 
 ### Data Analysis
 * Market data (prices, returns, volumes)
@@ -144,4 +144,4 @@ Strategy Inception: August 2017
 
 
 ## Links and References
-* [Versor Investment Website](htttps://www.versorinvest.com)
+* [Versor Investment Website](https://www.versorinvest.com)
