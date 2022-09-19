@@ -24,16 +24,14 @@ With Quantatative Finance. Trading without emotion, Historical data driven strat
 
 Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Over 50 years in Extensive Hedge Fund research and experience. 
 
 ## Fund Founders and Profiles-<br>
 * [Deepak Gurnani](https://www.linkedin.com/in/deepak-gurnani-03551813)<br>
 * [Ludger Hentschel](https://www.linkedin.com/in/ludger-hentschel)<br>
-* [DeWayne Louis]()<br>
-* [Andrew Flynn]()<br>
-* [Nirav Shah]()
+* [DeWayne Louis](https://www.linkedin.com/in/dewaynelouis)<br>
+* [Andrew Flynn](https://www.linkedin.com/in/andrew-m-flynn-2305b716)<br>
+* [Nirav Shah](https://www.linkedin.com/in/nirav-shah-8047b7)
 
 # Technology
 ![](./images/technology.jpg)
@@ -120,15 +118,6 @@ Strategy Inception: August 2017
 * AQR Capital, 
 * PanAgora, 
 * Acadian Asset Managment
-
-
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? <br>--Return on Investment, Percentage per year. 
-
-* How is your company performing relative to competitors in the same domain? <br> --Most publicised new quant fund.
 
 
 ## Recommendations
