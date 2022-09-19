@@ -125,8 +125,6 @@ Versor Global Macro seeks to take advantage of price differentials between relat
 
 * High frequency trading would require the most high performance hardware and networking technologies. With an addition of C++ being utilized within the source code.
 
-* Why are these technologies appropriate for your solution?
-
 
 ## Links and References
 * [Versor Investment Website](https://www.versorinvest.com)
