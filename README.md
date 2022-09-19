@@ -76,33 +76,30 @@ Access to large amounts of financial data and computing resources to facilitate 
 # Investment Strategies
 ![](./images/invest_strat1.2.jpg)
 
-
-# Investment Strategies
-
 ## Versor Global Equities Tactical Trading (GETT)
 Seeks to take advantage of price differentials between related financial instruments on a beta neutral basis using macroeconomic-based alpha forecast models across equity index futures (developed and emerging markets). The strategy aims to provide convexity.
-Strategy Inception: August 2017
+*Strategy Inception: August 2017*
 
 
 ## Versor GETT Directional
 GETT Directional combines beta one exposure to the S&P 500 index with the Versor Global Equities Trading (GETT) alpha engine. The strategy seeks to outperform the benchmark by enhancing S&P 500 returns in up markets and offsetting losses in down markets.
-Strategy Inception: August 2017
+*Strategy Inception: August 2017*
 
 ## Versor Merger Arbitrage
 Versor Merger Arbitrage is an active fundamental investment strategy combined with systematic processes and technology. The portfolio relies on a comprehensive proprietary database of 4000+ deals since 2000. Deals are sized based on several events such as deal closure probability, competing bid probability, downside risk, etc.
-Strategy Inception: May 2017
+*Strategy Inception: May 2017*
 
 ## Versor Value Dislocation Opportunities
 Versor Value Dislocation Opportunities is a market-neutral strategy with an investable universe of $3,000+ equities. The strategy invests 80% of portfolio risk in value styles with the remainder in other alpha factor themes. The portfolio is market-neutral down to the industry level. The strategy seeks to exploit an investment opportunity due to unusually wide value spreads.
-Strategy Inception: January 2020
+*Strategy Inception: January 2020*
 
 ## Versor Trend Following
 Versor Trend Following derives absolute returns from long, medium and short-term directional moves in various markets. The strategy invests in 100+ futures and forwards contracts across four major asset classes globally: commodities, equities, fixed income, and currency markets.
-Strategy Inception: May 2017
+*Strategy Inception: May 2017*
 
 ## Versor Global Macro
 Versor Global Macro seeks to take advantage of price differentials between related financial instruments on a beta neutral basis using macroeconomic-based alpha forecast models across commodities, equities, bonds, and currency markets. The strategy aims to provide convexity.
-Strategy Inception: August 2017
+*Strategy Inception: August 2017*
 
 
 # Competition
@@ -133,3 +130,5 @@ Strategy Inception: August 2017
 
 ## Links and References
 * [Versor Investment Website](https://www.versorinvest.com)
+
+* [Placement Talk Versor Investments](https://youtu.be/KjQJP2mwntc)
