@@ -1,6 +1,6 @@
 
 
-![](versor_logo.png)
+![](./images/versor_logo.png)
 # TITLE
 
 ## Overview and Origin
