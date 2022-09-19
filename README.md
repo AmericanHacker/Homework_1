@@ -22,10 +22,10 @@ Combing a scientific hypothesis-driven approach with diverse data sources to sys
 
 With Quantatative Finance. Trading without emotion, Historical data driven strategy. Risk Management, Portfolio Diversification
 
+## Fund Founders and Profiles-<br>
 
 Over 100 years in Extensive Hedge Fund research and experience. 
 
-## Fund Founders and Profiles-<br>
 * [Deepak Gurnani](https://www.linkedin.com/in/deepak-gurnani-03551813)<br>
 * [Ludger Hentschel](https://www.linkedin.com/in/ludger-hentschel)<br>
 * [DeWayne Louis](https://www.linkedin.com/in/dewaynelouis)<br>
