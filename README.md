@@ -47,7 +47,7 @@ Over 50 years in Extensive Hedge Fund research and experience.
 
 ### Data Analysis
 * Market data (prices, returns, volumes)
-* Financial data (sales, earnings)\
+* Financial data (sales, earnings)
 * Economic data (growth, inflation	
 * Alternative data (news stories, credit card transactions.
 
