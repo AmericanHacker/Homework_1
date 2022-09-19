@@ -22,9 +22,8 @@ Combing a scientific hypothesis-driven approach with diverse data sources to sys
 
 With Quantatative Finance. Trading without emotion, Historical data driven strategy. Risk Management, Portfolio Diversification
 
-Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-Over 50 years in Extensive Hedge Fund research and experience. 
+Over 100 years in Extensive Hedge Fund research and experience. 
 
 ## Fund Founders and Profiles-<br>
 * [Deepak Gurnani](https://www.linkedin.com/in/deepak-gurnani-03551813)<br>
